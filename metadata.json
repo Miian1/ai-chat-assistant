@@ -1,0 +1,5 @@
+{
+  "name": "AI Chat Assistant",
+  "description": "A general-purpose AI assistant powered by Gemini. Engage in conversation, ask questions, and get instant, intelligent responses.",
+  "requestFramePermissions": []
+}
